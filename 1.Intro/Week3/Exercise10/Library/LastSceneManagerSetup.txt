@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Moni/Desktop/Exercise11/Assets/scenes/scene0.unity
+  isLoaded: 1
+  isActive: 1
